@@ -12,8 +12,8 @@
     "enhance-css": "^1.1.0",
     "es6-promise": "^3.0.2",
     "insert-css": "^0.2.0",
-    "jquery": "^1.11.3",
-    "xpath-range": "0.0.5"
+    "jquery": "^3.4.0",
+    "xpath-range": "1.0.0"
   },
   "devDependencies": {
     "assertive-chai": "^1.0.0",
